@@ -13,7 +13,6 @@
  - <b>R dplyr graph</b>
   - [Cars engines comparison](https://github.com/mwy-dev/r-dplyr)
  
-
 <h2> 🤳 Connect with me:</h2>
 <a href="https://www.linkedin.com/in/micha%C5%82-wysocki-498884226/">Linked In</a>
 
