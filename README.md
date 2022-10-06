@@ -2,7 +2,9 @@
 
 <h2>🔭My projects:</h2>
 
-- <b>Practicing Python with OOP</b>
+- <b>Practicing Python - typical operations</b>
+  - [Miss value](https://github.com/mwy-dev/python-practicing)
+- <b>Practicing Python with object-oriented programming</b>
   - [Simple BMI calculator](https://github.com/mwy-dev/python-practicing)
 - <b>Real Time Data Processing with Python</b>
   - [Real Time Stock Price Scraping with Beautiful Soup and Matplotlib](https://github.com/mwy-dev/real-time-data)
