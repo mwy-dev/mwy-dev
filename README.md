@@ -8,8 +8,10 @@
   - [Simple BMI calculator](https://github.com/mwy-dev/python-practicing)
 - <b>Real Time Data Processing with Python</b>
   - [Real Time Stock Price Scraping with Beautiful Soup and Matplotlib](https://github.com/mwy-dev/real-time)
-- <b>Current time graph with R</b>
+- <b>Current time graph with R and ggplot2</b>
   - [Current exchange rate EUR and USD to (PLN) ](https://github.com/mwy-dev/r-graph)
+  - <b>R dplyr graph</b>
+  - [Cars engines comparison](https://github.com/mwy-dev/r-dplyr)
  
 
 <h2> 🤳 Connect with me:</h2>
