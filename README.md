@@ -7,8 +7,9 @@
 - <b>Practicing Python with object-oriented programming</b>
   - [Simple BMI calculator](https://github.com/mwy-dev/python-practicing)
 - <b>Real Time Data Processing with Python</b>
-  - [Real Time Stock Price Scraping with Beautiful Soup and Matplotlib](https://github.com/mwy-dev/real-time-data)
-  
+  - [Real Time Stock Price Scraping with Beautiful Soup and Matplotlib](https://github.com/mwy-dev/real-time)
+- <b>Current Data graph with R</b>
+  - [Current exchange rate EUR and USD to (PLN) ](https://github.com/mwy-dev/r-graph)
  
 - <b>Practicing python with OOP</b>
   - [Simple BMI calculator](https://github.com/mwy-dev/practice)
