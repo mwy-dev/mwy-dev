@@ -11,8 +11,8 @@
 - <b>Real Time Data Processing with Python</b>
   - [Real Time Stock Price Scraping with Beautiful Soup and Matplotlib](https://github.com/mwy-dev/real-time)
   
-- <b>Python datasets</b>
-  - [Pandas, Numpy datasets operations]( https://github.com/mwy-dev/pandas)
+- <b>Machine Learning in Python</b>
+  - [Linear regression with Scikit-learn]( https://github.com/mwy-dev/scikit)
   
 - <b>Current time graph with R and ggplot2</b>
   - [Current exchange rate EUR and USD to (PLN) ](https://github.com/mwy-dev/r-graph)
