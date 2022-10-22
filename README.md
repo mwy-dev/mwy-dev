@@ -1,4 +1,4 @@
-<h1>Hello, I'm Michał! <br/><a href="https://mwy-dev.github.io/">[Big Data Student]</a>
+<h1>Hello, I'm Michał! <br/><a href="https://mwy-dev.github.io/">Big Data Student</a>
 
 <h2>🔭My projects:</h2>
 
