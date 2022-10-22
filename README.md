@@ -24,7 +24,7 @@
   - [Cars engines comparison](https://github.com/mwy-dev/r-dplyr)
  
 <h2> 🤳 Contact with me:</h2>
-<h3><a href="https://www.linkedin.com/in/micha%C5%82-wysocki-498884226/">➡️LinkedIn</a></h3>
+<h3>&emsp;<a href="https://www.linkedin.com/in/micha%C5%82-wysocki-498884226/">&emsp;<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="50"/>&emsp;</a> <a href="https://mwy-dev.github.io/#contact">&emsp;<img src="https://www.freeiconspng.com/uploads/email-server-png-3.png" height="50"/>&emsp;</a></h3>
 
 <!--
 **mwy-dev/codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
