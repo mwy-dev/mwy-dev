@@ -15,7 +15,7 @@
   - [Logistic regression with Scikit-learn]( https://github.com/mwy-dev/scikit)
 
 - <b><img src="https://raw.githubusercontent.com/JuliaLang/julia/master/doc/src/assets/julia.ico" height="18"/>Simulate π-value in Julia</b>
-  - [Simulate π-value with circle area and square]( https://github.com/mwy-dev/scikit)
+  - [Simulate π-value with circle area in square]( https://github.com/mwy-dev/scikit)
   
 - <b><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/r_project_official_logo_icon_170811.png" height="18"/>Current time graph with R and ggplot2</b>
   - [Current exchange rate EUR and USD to (PLN) ](https://github.com/mwy-dev/r-graph)
