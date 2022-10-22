@@ -1,6 +1,6 @@
 <h1>Hello, I'm Michał! <br/><a href="https://mwy-dev.github.io/">🌐Big Data Student</a>
 
-<h2>🔭My projects:</h2>
+<h2>My projects:</h2>
 
 - <b><img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" height="18"/>Practicing Python - typical operations</b>
   - [Miss value](https://github.com/mwy-dev/python-practicing)
@@ -23,7 +23,7 @@
 - <b><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/r_project_official_logo_icon_170811.png" height="18"/>R dplyr graph</b>
   - [Cars engines comparison](https://github.com/mwy-dev/r-dplyr)
  
-<h2> 🤳 Contact with me:</h2>
+<h2> Contact with me:</h2>
 <h3>&emsp;<a href="https://www.linkedin.com/in/micha%C5%82-wysocki-498884226/">&emsp;<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="50"/>&emsp;</a> <a href="https://mwy-dev.github.io/#contact">&emsp;<img src="https://www.freeiconspng.com/uploads/email-server-png-3.png" height="50"/>&emsp;</a></h3>
 
 <!--
